@@ -2,3 +2,7 @@
 __pycache__
 .DS_Store
 .DS_Store
+COSMIC/erc-training/*/*.pkl*
+COSMIC/erc-training/*/*DS_Store*
+COSMIC/erc-training/logs/*.txt
+COSMIC/erc-training/*DS_Store*
